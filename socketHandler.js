@@ -1,4 +1,4 @@
-const { fetchTopPlayers } = require("./utils/playerUtils");
+const { fetchTopPlayers } = require("./utils/playerUtil");
 
 module.exports = (io) => {
   io.on("connection", (socket) => {
