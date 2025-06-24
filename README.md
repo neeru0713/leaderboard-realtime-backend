@@ -2,7 +2,6 @@
 
 This project is a real-time leaderboard system built using **Node.js**, **MongoDB**, **Socket.IO**, **Redis**, and **React**. It allows players to compete in different game modes and regions, with live score tracking and daily resets.
 
----
 
 ## 🚀 Features
 
